@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Box Test</name>
+        <static_content><![CDATA[<p><br /></p>
+<style>
+.square {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  background-color: #555;
+}
+ 
+.box {
+ width: 50px;
+ height: 50px;
+ border-right-style: none;
+ border-right: 0px;
+ background-color: grey;
+ padding-right: 0px;
+}
+</style>
+<p class="square"><br /></p>
+<p>Test Test Test </p>
+<p><img src="/sys_attachment.do?sys_id&#61;a9a6c9e52fed20107c2193acf699b680" /> &#61; Test</p>
+<div class="box" style="text-align: right;"><br /></div>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 12:51:52</sys_created_on>
+        <sys_id>a5e9a0a92fad20107c2193acf699b6dc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Box Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>content_block_static_a5e9a0a92fad20107c2193acf699b6dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-06 14:14:48</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5e9a0a92fad20107c2193acf699b6dc"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#555555</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Pasted image.png</file_name>
+        <hash>3fe6bfc0f335fd8e455dd7172d387942e299277dbab98dd53b8b2de7910ae6b5</hash>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>173</size_bytes>
+        <size_compressed>188</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 13:54:30</sys_created_on>
+        <sys_id>a9a6c9e52fed20107c2193acf699b680</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-06 13:54:30</sys_updated_on>
+        <table_name>content_block_static</table_name>
+        <table_sys_id>a5e9a0a92fad20107c2193acf699b6dc</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Pasted image.png" sys_id="a9a6c9e52fed20107c2193acf699b680">a9a6c9e52fed20107c2193acf699b680</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 13:54:30</sys_created_on>
+        <sys_id>e9a6c9e52fed20107c2193acf699b680</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSRiDMwQYk5ew7NgKpEk8Xx5AM1rfXDvIeUOBhcZxV8n+pwMUD/yYomfSLPPjse2bWzL+HtsdJPDqTMGF/7iW3nCeX4oO2hnhv/cV6iEO5x+ASp8EhD/Mjsoktgm5WjG4SL9t2AEUPeagf4FC+K1AOFJV4ySKRuET6UZ8BUMNcBuXpPTVfE0unycVk7wHaz+Dp6ueyzimhCQDPqSmHrQAAAA==</data>
+        <length>240</length>
+        <position>1</position>
+        <sys_attachment display_value="Pasted image.png" sys_id="a9a6c9e52fed20107c2193acf699b680">a9a6c9e52fed20107c2193acf699b680</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 13:54:30</sys_created_on>
+        <sys_id>6da6c9e52fed20107c2193acf699b680</sys_id>
+    </sys_attachment_doc>
+</record_update>
